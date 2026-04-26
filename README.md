@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 谭浩 | 全栈架构师 & AI 自动化先行者 <br/> *Tan Hao | Full Stack Architect & AI Automation Pioneer*
+# 🚀 Tanhao | 全栈工程师 & AI 自动化先行者 <br/> *Full Stack Development & AI Automation Pioneer*
 
 ### 6年+全栈经验 · 跨平台专家 · MCP/Rules/Skill 实践者 <br/> *6+ Years Full Stack · Cross-Platform Expert · MCP/Rules/Skill Practitioner*
 
