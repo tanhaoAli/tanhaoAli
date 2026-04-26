@@ -12,7 +12,7 @@
 
 ---
 
-## 关于我 / About Me
+## 🧑‍💻 关于我 / About Me
 
 > 拥有 **6年+** 的全栈开发经验，致力于连接优雅的前端界面与健壮的后端系统。  
 > 我热衷于在**跨平台开发**、**高扩展架构**与**AI 增强工程**的交汇处创造价值。  
@@ -36,7 +36,7 @@
 
 ---
 
-## 核心技术栈 / Tech Arsenal
+## 🛠️ 核心技术栈 / Tech Arsenal
 
 ### 前端生态 / Frontend Ecosystem
 
@@ -46,6 +46,8 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Uniapp](https://img.shields.io/badge/Uniapp-34495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 ### 后端与 API / Backend & API
 
@@ -53,10 +55,17 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-### 数据库 / Databases
+### 数据库与大数据 / Databases & Big Data
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### 容器化与自动化部署 / Container & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ### AI 自动化与开发工具 / AI Automation & DevTools
 
@@ -73,29 +82,7 @@
 
 ---
 
-## AI 驱动开发哲学 / AI-Driven Development Philosophy
-
-> “不要只是使用 AI，而是用它来构建架构。”  
-> *"Don't just use AI — architect with it."*
-
-- **Claude Code / Cursor**：日常结对编程、重构、测试生成的得力助手  
-  *Daily drivers for pair programming, refactoring, and test generation*
-
-- **Trea / Qoder**：为 CI/CD 和代码审查打造的自定义自动化流水线  
-  *Custom automation pipelines for CI/CD and code review augmentation*
-
-- **MCP 洞察**：构建 LLM 与真实数据源之间的语义连接器  
-  *Building semantic connectors between LLMs and real-world data sources*
-
-- **规则与技能工程**：设计确定性、可组合的规则集与基于技能的智能体，实现可复现的高质量产出  
-  *Designing deterministic, composable rule sets and skill-based agents for repeatable, high-quality outputs*
-
-📌 我相信，未来的开发者属于那些能够 **设计智能工作流** 的人 —— 将传统编码与 **提示工程、工具调用、上下文感知的智能体行为** 有机结合。  
-*I believe the future belongs to developers who can **design intelligent workflows** — blending traditional coding with **prompt engineering, tool calling, and context-aware agent behaviors**.*
-
----
-
-## GitHub 数据统计 / GitHub Analytics
+## 📊 GitHub 数据统计 / GitHub Analytics
 
 <div align="center">
 
@@ -107,7 +94,7 @@
 
 ---
 
-## 联系方式 / Let's Connect
+## 📫 联系方式 / Let's Connect
 
 - **GitHub**：[github.com/tanhaoAli](https://github.com/tanhaoAli)
 - **主要邮箱 / Primary Email**：[tan340961@gmail.com](mailto:tan340961@gmail.com)
