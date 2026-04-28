@@ -95,8 +95,6 @@
 ## 📫 联系方式 / Let's Connect
 
 - **GitHub**：[github.com/tanhaoAli](https://github.com/tanhaoAli)
-- **主要邮箱 / Primary Email**：[tan340961@gmail.com](mailto:tan340961@gmail.com)
-- **备用邮箱 / Secondary Email**：[242472620@qq.com](mailto:242472620@qq.com)
 
 ---
 
